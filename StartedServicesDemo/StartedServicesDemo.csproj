@@ -91,9 +91,9 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MMSClassLib\MMSClassLib.csproj">
+    <ProjectReference Include="..\PrinterClassLib\PrinterClassLib.csproj">
       <Project>{1372f510-3d32-4457-aa42-9d66605eda35}</Project>
-      <Name>MMSClassLib</Name>
+      <Name>PrinterClassLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

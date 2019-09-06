@@ -4,7 +4,7 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartedServicesDemo", "StartedServicesDemo\StartedServicesDemo.csproj", "{05DAB32E-1F15-4E61-91CE-0D658503ED2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSClassLib", "MMSClassLib\MMSClassLib.csproj", "{1372F510-3D32-4457-AA42-9D66605EDA35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterClassLib", "PrinterClassLib\PrinterClassLib.csproj", "{1372F510-3D32-4457-AA42-9D66605EDA35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
