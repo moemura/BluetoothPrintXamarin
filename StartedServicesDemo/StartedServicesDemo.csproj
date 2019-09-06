@@ -53,13 +53,11 @@
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <Compile Include="MyPrinter\Global.cs" />
-    <Compile Include="MyPrinter\WorkService2.cs" />
     <Compile Include="MyPrinter\WorkThread.cs" />
     <Compile Include="Printer.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MyPrinter\WorkService.cs" />
-    <Compile Include="UtcTimestamper.cs" />
     <Compile Include="Utils\DataUtils.cs" />
   </ItemGroup>
   <ItemGroup>
